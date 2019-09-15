@@ -1,0 +1,146 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+
+}
+h1{
+  margin: 0;
+  color: #e84545;
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 80px;
+  padding: 0;
+  margin-block-end: 0em;
+   letter-spacing: 3px;
+}
+h3{
+  margin-top: 0;
+  color: #e84545;
+  font-family: 'Montserrat', sans-serif;
+}
+h2{
+  color: #903749;
+  font-size: 2.5em;
+  margin-block-end: 0em;
+  margin-block-start: 0em;
+  margin: 2% auto;
+}
+h5{
+  margin: 3% auto;
+  color: #2b2e4a;
+  font-size: 1.1em;
+
+}
+.head2{
+  padding-top: 10%;
+  padding-bottom: 2%;
+}
+
+.top-container{
+  background-color: #2b2e4a;
+  padding-top: 10%;
+}
+.middle-container{
+  background-color: #e84545;
+  padding-top: 3%;
+padding-bottom: 5%;
+}
+.middle-container p{
+  color: #2b2e4a;
+  font-size: 1.3em;
+  width: 50%;
+
+  margin: 0 auto;
+
+}
+.bottom-container{
+  background-color: #2b2e4a;
+  padding: 2%;
+}
+.bottom-cloud{
+  position: absolute;
+  left:20%;
+  bottom:40%;
+}
+.top-cloud{
+  position: absolute;
+  top: 10%;
+  right: 20%;
+}
+#myImg{
+  border-radius: 100%;
+  height: 15%;
+  width: 15%;
+  display: block;
+  margin: 2% auto;
+  border: 5px solid #53354a;
+ border-style: dashed;
+}
+.skills-container{
+  display: inline-block;
+  text-align: left;
+  width: 50%;
+  margin: 1% auto 10% auto;
+}
+
+.skills-container p{
+  display: block;
+  width: 100%;
+    margin: 0;
+      font-size: 1.1em;
+
+}
+.skills-container img{
+
+  height: 17%;
+  width: 17%;
+
+}
+.coding{
+  display: block;
+
+}
+.developer{
+  display: block;
+  padding-top: 15%;
+}
+.coding img{
+  margin-right: 5%;
+  float: left;
+}
+.developer img{
+  float: right;
+}
+h4{
+  color: #2b2e4a;
+  font-size: 1.2em;
+  margin: 5% 0 2% 0;
+}
+ #collab{
+  margin-block-end: 0;
+  margin-bottom: 0;
+  font-size: 1.1em;
+
+}
+.contact{
+  display: inline-block;
+  text-decoration: none;
+  color: #e84545;
+  background-color: #2b2e4a;
+  position: relative;
+  border: 0 solid #2b2e4a;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-top: 3%;
+}
+.contact:hover{
+  background-color: #1c1e30;
+}
+.bottom-container a{
+  padding: 2%;
+  color: #e84545;
+  text-decoration: none;
+}
+.bottom-container a:hover{
+  color: #eb6060;
+}
